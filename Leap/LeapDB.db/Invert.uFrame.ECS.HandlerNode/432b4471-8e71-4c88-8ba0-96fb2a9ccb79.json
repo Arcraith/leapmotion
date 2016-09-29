@@ -1,0 +1,12 @@
+{
+	"CodeHandler":false	, 
+	"Custom":false	, 
+	"MetaType":"uFrame.ECS.ISystemUpdate"	, 
+	"VariableCount":0	, 
+	"StartActionId":"34ed5c15-88af-4189-ad4b-bd20b1baccb6"	, 
+	"VariableName":"HandlerNode399"	, 
+	"Name":"NumberDetectionSystemUpdate"	, 
+	"Order":0	, 
+	"GraphId":"95871c86-b20b-4eca-85e2-660a1a796d2d"	, 
+	"Identifier":"432b4471-8e71-4c88-8ba0-96fb2a9ccb79"	, 
+	"Expanded":false}
